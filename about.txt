@@ -1,0 +1,7 @@
+
+<html>
+	<body>
+		<h1> about </h1>
+			<p> we teach aws , git etc..</p>
+	</body>
+</html>

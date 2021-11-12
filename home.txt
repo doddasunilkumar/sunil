@@ -1,7 +1,7 @@
 
 <html>
 	<body>
-		<h1> sunil techs</h1>
+		<h1> sunil kumar techs</h1>
 			<p> new way of teaching</p>
 	</body>
 </html>

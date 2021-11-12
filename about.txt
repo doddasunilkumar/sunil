@@ -2,6 +2,6 @@
 <html>
 	<body>
 		<h1> about </h1>
-			<p> we teach aws , git etc..</p>
+			<p> we teach aws, linux , git etc..</p>
 	</body>
 </html>
